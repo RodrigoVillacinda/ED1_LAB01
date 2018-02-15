@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\Desktop\Tercer ciclo\Estructura\Proyecto1\LibreriaClases\obj\Debug\LibreriaClases.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Tercer ciclo\Estructura\Proyecto1\LibreriaClases\obj\Debug\LibreriaClases.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Tercer ciclo\Estructura\Proyecto1\LibreriaClases\bin\Debug\LibreriaClases.dll
+C:\Users\Rodrigo\Desktop\Tercer ciclo\Estructura\Proyecto1\LibreriaClases\bin\Debug\LibreriaClases.pdb
+C:\Users\Rodrigo\Desktop\Tercer ciclo\Estructura\Proyecto1\LibreriaClases\obj\Debug\LibreriaClases.dll
+C:\Users\Rodrigo\Desktop\Tercer ciclo\Estructura\Proyecto1\LibreriaClases\obj\Debug\LibreriaClases.pdb

@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Proyecto1.Models.Jugador>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Gestión MLS</h2>
+
+<p>
+    <br>
+    @Html.ActionLink("Ingreso manual de jugadores", "Create")
+    <br>
+    @Html.ActionLink("Busqueda de jugadores", "Details")
+    <br>
+    @Html.ActionLink("Eliminar jugadores", "Delete")
+    <br>
+    @Html.ActionLink("Editar datos de jugadores", "Edit")
+</p>
+
+<br>
+
+
+@using (Html.BeginForm("TuAction", "TuControlador", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <input type="file" name="archivoTXT" />
+    <input type="submit" value="Cargar" />
+
+    <br />
+    <b>@ViewBag.mensaje</b>
+
+}
