@@ -1,4 +1,4 @@
-# ED1_LAB01
+# Implementación y análisis de estructuras lineales
 RodrigoVillacinda_1205917
 
 La MLS (Major League Soccer por sus ciclas en inglés) necesita gestionar de
